@@ -5,7 +5,7 @@
 ## Intro
 
 - 👋 Hi, I’m Bariscnc!
-- 🔭 I’m currently working on Java 25, Spring, React Expo for iOS and Android, Ecmascript/JavaScript, Python, Docker, 
+- 🔭 I’m currently working on Java 25, Spring, React Expo for iOS and Android, Ecmascript/JavaScript, Python, Docker, AWS
 - 🌱 I’m currently migrating a big project to Kotlin
 - 👯 I’m looking to collaborate on Java/Kotlin and Python Backend Projects
 - 💬 Ask me about Spring Framework
@@ -18,4 +18,4 @@
 <img src="framework-docs/src/js-official-svgrepo-com.svg" width="80" height="80">
 <img src="framework-docs/src/expo-1.svg" width="80" height="80">
 
-I enjoy reading and writing code, 
+I enjoy reading and writing code, with an interest in Software Architecture
