@@ -11,11 +11,11 @@
 - 💬 Ask me about Spring Framework
 - 📫 How to reach me: can.bar.can@gmail.com
 
-<img src="framework-src/src/spring-framework.png" width="80" height="80">
-<img src="framework-src/src/python-3-logo-svgrepo-com.svg" width="80" height="80">
-<img src="framework-src/src/java-4-logo-svgrepo-com.svg" width="80" height="80">
-<img src="framework-src/src/Android_Studio_Logo_(2023).svg" width="80" height="80">
-<img src="framework-src/src/js-official-svgrepo-com.svg" width="80" height="80">
-<img src="framework-src/src/expo-1.svg" width="80" height="80">
+| <img src="framework-src/src/spring-framework.png" width="80" height="80"> 
+| <img src="framework-src/src/python-3-logo-svgrepo-com.svg" width="80" height="80">
+| <img src="framework-src/src/java-4-logo-svgrepo-com.svg" width="80" height="80">
+| <img src="framework-src/src/Android_Studio_Logo_(2023).svg" width="80" height="80">
+| <img src="framework-src/src/js-official-svgrepo-com.svg" width="80" height="80">
+| <img src="framework-src/src/expo-1.svg" width="80" height="80"> |
 
 I enjoy reading and writing code, with an interest in Software Architecture
